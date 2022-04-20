@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy.iml" filepath="$PROJECT_DIR$/SpringCloudStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_authenticating/eureka_authenticating.iml" filepath="$PROJECT_DIR$/eureka_authenticating/eureka_authenticating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" filepath="$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_consumer_without/eureka_consumer_without.iml" filepath="$PROJECT_DIR$/eureka_consumer_without/eureka_consumer_without.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider/eureka_provider.iml" filepath="$PROJECT_DIR$/eureka_provider/eureka_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_consumer_custom/feign_consumer_custom.iml" filepath="$PROJECT_DIR$/feign_consumer_custom/feign_consumer_custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_consumer/ribbon_consumer.iml" filepath="$PROJECT_DIR$/ribbon_consumer/ribbon_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_consumer_custom/ribbon_consumer_custom.iml" filepath="$PROJECT_DIR$/ribbon_consumer_custom/ribbon_consumer_custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_consumer_customproperties/ribbon_consumer_customproperties.iml" filepath="$PROJECT_DIR$/ribbon_consumer_customproperties/ribbon_consumer_customproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_consumer/springboot_consumer.iml" filepath="$PROJECT_DIR$/springboot_consumer/springboot_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_provider/springboot_provider.iml" filepath="$PROJECT_DIR$/springboot_provider/springboot_provider.iml" />
+    </modules>
+  </component>
+</project>

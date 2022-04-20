@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_authenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon_consumer_custom/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon_consumer_customproperties/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon_consumer_customproperties/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon_consumer_custom/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_consumer_without/pom.xml" />
+        <option value="$PROJECT_DIR$/feign_consumer_custom/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

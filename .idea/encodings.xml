@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/eureka_authenticating" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_authenticating/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_without" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_without/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign_consumer_custom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign_consumer_custom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer_custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer_custom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer_customproperties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon_consumer_customproperties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

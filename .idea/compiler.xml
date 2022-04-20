@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_consumer" />
+        <module name="ribbon_consumer" />
+        <module name="springboot_provider" />
+        <module name="eureka_provider" />
+        <module name="eureka_server" />
+        <module name="eureka_consumer" />
+        <module name="ribbon_consumer_customproperties" />
+        <module name="ribbon_consumer_custom" />
+        <module name="eureka_consumer_without" />
+        <module name="eureka_authenticating" />
+        <module name="feign_consumer_custom" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka_authenticating" target="1.8" />
+      <module name="eureka_consumer" target="1.8" />
+      <module name="eureka_consumer_without" target="1.8" />
+      <module name="eureka_provider" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="feign_consumer (1)" target="1.8" />
+      <module name="feign_consumer_custom" target="1.8" />
+      <module name="ribbon_consumer" target="1.8" />
+      <module name="ribbon_consumer_custom" target="1.8" />
+      <module name="ribbon_consumer_customproperties" target="1.8" />
+      <module name="springboot_consumer" target="1.8" />
+      <module name="springboot_provider" target="1.8" />
+      <module name="springcloud_eureka_server" target="1.8" />
+      <module name="SpringCloudStudy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka_authenticating" options="-parameters" />
+      <module name="eureka_consumer" options="-parameters" />
+      <module name="eureka_consumer_without" options="-parameters" />
+      <module name="eureka_provider" options="-parameters" />
+      <module name="eureka_server" options="-parameters" />
+      <module name="feign_consumer_custom" options="-parameters" />
+      <module name="ribbon_consumer" options="-parameters" />
+      <module name="ribbon_consumer_custom" options="-parameters" />
+      <module name="ribbon_consumer_customproperties" options="-parameters" />
+      <module name="springboot_consumer" options="-parameters" />
+      <module name="springboot_provider" options="-parameters" />
+      <module name="springcloud_eureka_server" options="-parameters" />
+    </option>
+  </component>
+</project>
